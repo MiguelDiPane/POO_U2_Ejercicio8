@@ -57,7 +57,6 @@ if __name__ == '__main__':
                 print('Los conjuntos son iguales')
             else:
                 print('Los conjuntos NO son iguales')
-
             input('Presione ENTER para continuar...')
         elif op == 4:
             test()
